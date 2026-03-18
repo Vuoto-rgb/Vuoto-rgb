@@ -20,8 +20,8 @@ Studente di Ingegneria Informatica presso l'Universitas Mercatorum , specializza
 **Backend & DB**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**AI & Data**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge&logo=n8n&logoColor=white)
+**AI & Data Science**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-red?style=for-the-badge&logo=n8n&logoColor=white)
 
 **DevOps**
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
