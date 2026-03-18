@@ -1,26 +1,26 @@
 # Ciao, sono Giulio Tartaglia 👋
 
 ### 🎓 Computer Engineering Student & Full-Stack Developer
-Studente di Ingegneria Informatica presso l'Universitas Mercatorum [cite: 46, 47][cite_start], specializzato nello sviluppo di soluzioni innovative che uniscono rigore analitico e problem solving[cite: 10].
+Studente di Ingegneria Informatica presso l'Universitas Mercatorum , specializzato nello sviluppo di soluzioni innovative che uniscono rigore analitico e problem solving.
 
 ---
 
 ### 🚀 Cosa sto facendo ora
-**Accademia Italiana Fitness**: Sviluppo Full-Stack e automazione workflow tramite **n8n**[cite: 28, 34].
-**AI Implementation**: Integrazione di tecnologie come **Claude Code** per l'automazione del codice[cite: 35].
-**DevOps**: Gestione di ambienti isolati e simulazioni tramite **Docker**[cite: 36].
+**Accademia Italiana Fitness**: Sviluppo Full-Stack e automazione workflow tramite **n8n**.
+**AI Implementation**: Integrazione di tecnologie come **Claude Code** per l'automazione del codice.
+**DevOps**: Gestione di ambienti isolati e simulazioni tramite **Docker**.
 
 ---
 
 ### 🛠️ Technical Stack
-**Linguaggi**: Java, C++, JavaScript, PHP, SQL, HTML/CSS[cite: 8, 59].
-**Frontend**: Sviluppo di interfacce dinamiche con JavaScript e TailwindCSS[cite: 31, 59].
-**Backend & DB**: Gestione database relazionali (MySQL) e NoSQL (MongoDB)[cite: 18, 61].
-**AI & Data**: Computer Vision con TensorFlow e analisi Big Data per il monitoraggio costi[cite: 16, 17, 63].
+**Linguaggi**: Java, C++, JavaScript, PHP, SQL, HTML/CSS.
+**Frontend**: Sviluppo di interfacce dinamiche con JavaScript e TailwindCSS.
+**Backend & DB**: Gestione database relazionali (MySQL) e NoSQL (MongoDB).
+**AI & Data**: Computer Vision con TensorFlow e analisi Big Data per il monitoraggio costi.
 
 ---
 
 ### 📫 Contatti
-* **LinkedIn**: [Giulio Tartaglia](https://www.linkedin.com/in/giulio-tartaglia-b71763300/)
-**Email**: giuliotarta2003@gmail.com [cite: 3]
-**Sede**: Roma, Italia [cite: 4]
+**LinkedIn**: [Giulio Tartaglia](https://www.linkedin.com/in/giulio-tartaglia-b71763300/)
+**Email**: giuliotarta2003@gmail.com 
+**Sede**: Roma, Italia 
